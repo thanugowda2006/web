@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* full viewport */
+}
+.box {
+  padding: 20px;
+  background: lightblue;
+}
