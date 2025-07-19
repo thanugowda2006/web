@@ -1,0 +1,14 @@
+fancy-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 25px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+.fancy-btn:hover {
+  background: #0069d9;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+}
