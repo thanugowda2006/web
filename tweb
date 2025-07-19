@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="center.css">
+  <title>Flex Center</title>
+</head>
+<body>
+  <div class="container">
+    <div class="box">I'm centered!</div>
+  </div>
+</body>
+</html>
