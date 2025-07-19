@@ -1,0 +1,15 @@
+form {
+  max-width: 300px;
+  margin: 30px auto;
+}
+label {
+  display: inline-block;
+  width: 60px;
+}
+input[type="text"] {
+  width: calc(100% - 70px);
+  padding: 6px;
+}
+input[type="text"]:focus {
+  outline: 2px solid #007bff;
+}
